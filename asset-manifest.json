@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Consultation-BookingPage/static/css/main.79b0dc3f.css",
+    "main.js": "/Consultation-BookingPage/static/js/main.a74595b3.js",
+    "static/js/787.e7a8af68.chunk.js": "/Consultation-BookingPage/static/js/787.e7a8af68.chunk.js",
+    "static/media/health2.jpg": "/Consultation-BookingPage/static/media/health2.9c033d31008f488fc02a.jpg",
+    "index.html": "/Consultation-BookingPage/index.html",
+    "main.79b0dc3f.css.map": "/Consultation-BookingPage/static/css/main.79b0dc3f.css.map",
+    "main.a74595b3.js.map": "/Consultation-BookingPage/static/js/main.a74595b3.js.map",
+    "787.e7a8af68.chunk.js.map": "/Consultation-BookingPage/static/js/787.e7a8af68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b0dc3f.css",
+    "static/js/main.a74595b3.js"
+  ]
+}
